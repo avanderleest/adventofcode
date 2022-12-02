@@ -1,3 +1,0 @@
-byr:1932 hgt:170cm cid:331 eyr:2020 pid:52551410 ecl:gry
-iyr:2013
-hcl:#c6944c
